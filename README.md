@@ -1,5 +1,12 @@
 ## Borderlands 3 Mayhem Modifier Seeds
 
+Instructions for setting seed value:
+https://github.com/FromDarkHell/BL3SaveEditor/issues/8
+
+- Select the mayhem level in game. Then edit the seed in the save editor.
+- In save editor, go to Raw > GameSaveDataForPlaythroughs
+- Edit the seed for that mayhem level.
+
 ## Mayhem 3
 
 | Seed | Easy | Medium 1 | Medium 2 |
