@@ -13,6 +13,12 @@ https://github.com/FromDarkHell/BL3SaveEditor/issues/8
 |-|-|-|-|
 | -1359703953 | Slayer | Mob Mentality | Healy Avenger |
 
+## Mayhem 4
+
+| Seed | Easy | Hard |
+|-|-|-|-|
+| 168534755 | Lootsplosion | Pool Party |
+
 ## Mayhem 10
 
 | Seed | Easy | Medium | Hard | Very Hard |
