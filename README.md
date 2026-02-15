@@ -16,7 +16,7 @@ https://github.com/FromDarkHell/BL3SaveEditor/issues/8
 ## Mayhem 4
 
 | Seed | Easy | Hard |
-|-|-|-|-|
+|-|-|-|
 | 168534755 | Lootsplosion | Pool Party |
 
 ## Mayhem 10
