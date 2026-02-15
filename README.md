@@ -18,6 +18,7 @@ https://github.com/FromDarkHell/BL3SaveEditor/issues/8
 | Seed | Easy | Hard |
 |-|-|-|
 | 168534755 | Lootsplosion | Pool Party |
+| -923593989 | Lootsplosion | Drone Ranger |
 
 ## Mayhem 10
 
